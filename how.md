@@ -27,10 +27,24 @@ Starship Deliveries works through a smartphone app that signals an autonomous ro
 ![googleSTOREtwo](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191007-232429_google-play-store-e1570513207946.jpg)
 *Tap on the first search result; Starship Deliveries.*
 
-![googleSTOREthree](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191007-232511_google-play-store-e1570513371255.jpg}
+![googleSTOREthree](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191007-232511_google-play-store-e1570513371255.jpg)
 *Tap the green install button to download the Starship Deliveries app.*
 
 #
 
 ## Setting Up the Starship Deliveries App
+
+1. Once downloaded, the Starship Deliveries app will be with your collection of apps.
+     1. Go to your home screen.
+     2. Swipe up from the bottom of your home screen.
+     3. Navigate through your apps to find the Starship Deliveries app.
+     4. Tap on the Starship Deliveries app icon, which is identifiable by a white “S” surrounded in black.
+2. Once opened, the Starship Deliveries app will ask you to enter your location.
+     1. Enter your current physical home address. For example “902 Waldron Street, West Lafayette, IN, 47906”.
+     
+     #
+     
+Now, you will come upon the restaurant choices that Starship Deliveries offers. At Purdue University, the options are: 1Bowl, 3rd Street Market, Cosi, Harrison Grill, La Salsa, Pete’s Za, Port Cafe, Starbucks, Sushi Boss, among others that are added or removed daily.
+
+#
 
