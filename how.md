@@ -48,3 +48,17 @@ Now, you will come upon the restaurant choices that Starship Deliveries offers. 
 
 #
 
+## Ordering Food with Starship Deliveries
+
+1. Choose a restaurant to order from.
+2. Once you have chosen a restaurant to order from, go over the menu. Each restaurant offers different food choices. For example, Pete’s Za offers pizzas, salads, sauces, and drinks. In contrast, Sushi Boss offers sushi rolls, sushi bowls, and drinks. There are many varying options to choose from for each different restaurant.
+3. Pick the food options that you wish to order. You can do this by clicking the black “+” icon surrounded by a grey circle next to the food item you wish to choose.
+4. Proceed to checkout by tapping to appropriate “checkout” icon at the top right of the app. It looks like a basket with a number indicating how many items you have chosen.
+5. Choose the pickup point for your food delivery. This is generally the location which you first set your home address at. Starship will give you and Estimated Time of Arrival (ETA) of your food.
+6. Review your food order and make sure that it’s correct. You will see a total for how much your food will cost.
+7. You can enter a promotional code if you have one (this step is optional).
+8. Enter your payment information. Starship Deliveries works through credit/debit card.
+9. Enter your contact information. A number example is “526-937-3610”.
+10. You can select if you want a receipt or not. This will be sent to an email that you enter. An example is “starshipbuyer@gmail.com”.
+11. Order your food by confirming your pickup point. A map will open and you can fine tune the delivery robot’s destination point. After choosing, tap “confirm pickup point”.
+12. Your order will arrive around the ETA the app gives you.
