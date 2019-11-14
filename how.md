@@ -62,3 +62,24 @@ Now, you will come upon the restaurant choices that Starship Deliveries offers. 
 10. You can select if you want a receipt or not. This will be sent to an email that you enter. An example is “starshipbuyer@gmail.com”.
 11. Order your food by confirming your pickup point. A map will open and you can fine tune the delivery robot’s destination point. After choosing, tap “confirm pickup point”.
 12. Your order will arrive around the ETA the app gives you.
+
+![starAPPone](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191008-012347-e1570513507618.jpg)
+*Tap the black “+” icon to add a food item to your order. Tap the basket icon at the top right of your screen to head to checkout.*
+
+![starAPPtwo](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191008-012443-e1570513542918.jpg)
+*Choose your final pickup point for your food order.*
+
+#
+
+## Receiving Your Food and Enjoying It
+
+1. Once your food arrives, the app will notify you with a text to your phone.
+2. The text will contain a four digit code that will unlock your food delivery robot.
+3. Approach the pickup point for your food that you chose and find the Starship robot.
+4. Open your Starship Deliveries app and enter your four-digit code.
+5. Your food delivery robot will unlock.
+6. Grab the bottom-front of the robot’s lid and open it.
+7. Pull your food out of the robot and close the lid gently.
+8. Say goodbye to the robot (optional) and go eat your food.
+
+#
