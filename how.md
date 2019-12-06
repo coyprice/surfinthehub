@@ -29,7 +29,7 @@ There are many restaurant choices that Starship Deliveries offers. At Purdue Uni
 ## Ordering Food with Starship Deliveries
 
 1. Choose a restaurant to order from.
-2. Once you have chosen a restaurant to order from, go over the menu. Each restaurant offers different food choices. For example, Pete’s Za offers pizzas, salads, sauces, and drinks. In contrast, Sushi Boss offers sushi rolls, sushi bowls, and drinks. There are many varying options to choose from for each different restaurant.
+2. Once you have chosen a restaurant to order from, go over the menu. Each restaurant offers different food choices. For example, [Pete’s Za](https://dining.purdue.edu/ResidentialDining/locations/petes_za-Meredith.html) offers pizzas, salads, sauces, and drinks. In contrast, [Sushi Boss](https://dining.purdue.edu/CampusDining/Restaurants/sushi-boss.html) offers sushi rolls, sushi bowls, and drinks. There are many varying options to choose from for each different restaurant.
 3. Pick the food options that you wish to order. You can do this by clicking the black “+” icon surrounded by a grey circle next to the food item you wish to choose.
 4. Proceed to checkout by tapping to appropriate “checkout” icon at the top right of the app. It looks like a basket with a number indicating how many items you have chosen.
 5. Choose the pickup point for your food delivery. This is generally the location which you first set your home address at. Starship will give you and Estimated Time of Arrival (ETA) of your food.
@@ -41,11 +41,11 @@ There are many restaurant choices that Starship Deliveries offers. At Purdue Uni
 11. Order your food by confirming your pickup point. A map will open and you can fine tune the delivery robot’s destination point. After choosing, tap “confirm pickup point”.
 12. Your order will arrive around the ETA the app gives you.
 
-![starAPPone](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191008-012347-e1570513507618.jpg)
-*Tap the black “+” icon to add a food item to your order. Tap the basket icon at the top right of your screen to head to checkout.*
+![starAPPone](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191008-012347-e1575668121885.jpg)
+*Steps 3 & 4: Tap the black “+” icon to add a food item to your order. Tap the basket icon at the top right of your screen to head to checkout.*
 
 ![starAPPtwo](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191008-012443-e1570513542918.jpg)
-*Choose your final pickup point for your food order.*
+*Step 5: Choose the final pickup point for your food order.*
 
 #
 
@@ -59,5 +59,8 @@ There are many restaurant choices that Starship Deliveries offers. At Purdue Uni
 6. Grab the bottom-front of the robot’s lid and open it.
 7. Pull your food out of the robot and close the lid gently.
 8. Say goodbye to the robot (optional) and go eat your food.
+
+![gettingGRUB](https://starshipdeliveriesguide.files.wordpress.com/2019/12/star_pickup.jpg)
+*Enjoy your food! ([Credit](https://newatlas.com/just-eat-starship-technologies-first-robot-food-delivery/46735/))*
 
 #
