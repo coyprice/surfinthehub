@@ -10,6 +10,8 @@ Blastoff with Starship
 
 [Reasons Not to Use](whynot.md)
 
+[Installation and Setup (Android)](setup.md)
+
 [How to Use (Android)](how.md)
 
 [User Testing](usertesting.md)
