@@ -62,5 +62,3 @@ There are many restaurant choices that Starship Deliveries offers. At Purdue Uni
 
 ![gettingGRUB](https://starshipdeliveriesguide.files.wordpress.com/2019/12/star_pickup.jpg)
 *Enjoy your food! ([Credit](https://newatlas.com/just-eat-starship-technologies-first-robot-food-delivery/46735/))*
-
-#
