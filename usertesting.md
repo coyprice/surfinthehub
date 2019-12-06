@@ -6,11 +6,13 @@ Blastoff with Starship
 
 [What is Starship Deliveries](index.md)
 
-[Why Use Starship Deliveries](why.md)
+[Reasons to Use](why.md)
 
-[Why Not Use Starship Deliveries](whynot.md)
+[Reasons Not to Use](whynot.md)
 
-[How to Use Starship Deliveries](how.md)
+[Installation and Setup (Android)](setup.md)
+
+[How to Use (Android)](how.md)
 
 [User Testing](usertesting.md)
 
