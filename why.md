@@ -25,4 +25,4 @@ The timetable for this food delivery service is generally closer to the 20-40 mi
 With Starship, you can pinpoint exactly where you want your food to arrive. With a human deliverer, exact locations can be confused which leads to longer delivery times. The Starship robots operate on a satellite map system. If you live in a dorm, office, or apartment, you can get your food delivered to your closest access point.
 
 ![mitchdan](https://starshipdeliveriesguide.files.wordpress.com/2019/10/goodstarshiprobot.jpg)
-*Mitch Daniels opening a Starship Deliveries robot to get his food order. ([Credit](https://www.engadget.com/2019/09/09/starship-delivery-robots-at-purdue-university/)*
+*Mitch Daniels opening a Starship Deliveries robot to get his food order. ([Credit](https://www.engadget.com/2019/09/09/starship-delivery-robots-at-purdue-university/))*
