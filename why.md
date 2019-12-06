@@ -16,7 +16,7 @@ Blastoff with Starship
 
 [User Testing](usertesting.md)
 
-# Why Use Starship Deliveries
+# Reasons to Use
 
 By using a smartphone app, customers at Purdue University can choose the food they want from a particular restaurant and have a food delivery robot bring them their food within an hour of ordering.
 
