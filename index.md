@@ -21,4 +21,4 @@ Starship Deliveries is a food delivery app which uses autonomous robots to bring
 Starship Deliveries has launched their services at Purdue University so that they can officially begin large-scale testing of their food delivery robots. While this new technology is exciting and fresh, it still has much to improve upon. As Purdue University in West Lafayette is now the largest college campus in the world to have these food delivery robots roaming around, Starship hopes that this partnership will allow them to perfect their infantile system. 
 
 ![robotFLEET](https://starshipdeliveriesguide.files.wordpress.com/2019/12/star_robot1.jpg)
-*Starship robot fleet. (Credit)*
+*Starship robot fleet. ([Credit](https://www.theverge.com/2019/8/20/20812184/starship-delivery-robot-expansion-college-campus))*
