@@ -33,14 +33,14 @@ Starship Deliveries works through a smartphone app that signals an autonomous ro
 4. There will be an option to “Install” the app that is surrounded by a green button.
    1. Tap on the green “Install” button.
    
-     ![googleSTORE](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191007-232255_google-play-store-e1570513260622.jpg)
-*The Google Play home screen. Tap the search bar and type “Starship Deliveries”.*
+     ![googleSTORE](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191007-232255_google-play-store-e1575667878680.jpg)
+*Step 1: Google Play Store*
 
 ![googleSTOREtwo](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191007-232429_google-play-store-e1570513207946.jpg)
-*Tap on the first search result; Starship Deliveries.*
+*Step 3: Search for Starship Deliveries. It is the first result.*
 
 ![googleSTOREthree](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191007-232511_google-play-store-e1570513371255.jpg)
-*Tap the green install button to download the Starship Deliveries app.*
+*Step 4: Tap the green install button to download the Starship Deliveries app.*
 
 #
 
