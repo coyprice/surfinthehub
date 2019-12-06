@@ -24,5 +24,3 @@ Starship Deliveries has launched their services at Purdue University so that the
 
 ![robotFLEET](https://starshipdeliveriesguide.files.wordpress.com/2019/12/star_robot1.jpg)
 *Starship robot fleet. ([Credit](https://www.theverge.com/2019/8/20/20812184/starship-delivery-robot-expansion-college-campus))*
-
-#
