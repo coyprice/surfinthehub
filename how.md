@@ -14,9 +14,13 @@ Blastoff with Starship
 
 [User Testing](usertesting.md)
 
-# How to Use Starship Deliveries
+# How to Use (Android)
 
-Starship Deliveries works through a smartphone app that signals an autonomous robot to pick up and deliver food to the intended customer. To use this service, you must first download the app.
+To be able to use the android app, refer to the installation and setup page.
+
+#
+
+There are many restaurant choices that Starship Deliveries offers. At Purdue University, the options are: [1Bowl](https://dining.purdue.edu/ResidentialDining/locations/1bowl-at-meredith.html), [3rd Street Market](https://dining.purdue.edu/campusdining/Markets/thirdstreetmarket.html), [Cosi](https://dining.purdue.edu/campusdining/Restaurants/cosi.html), [Harrison Grill](https://dining.purdue.edu/campusdining/Restaurants/harrisongrill.html), [La Salsa](https://dining.purdue.edu/campusdining/Restaurants/lasalsa.html), [Pete’s Za](https://dining.purdue.edu/ResidentialDining/locations/petes_za-Meredith.html), [Port Cafe](https://dining.purdue.edu/CampusDining/Cafes/port.html), [Starbucks](https://dining.purdue.edu/CampusDining/Cafes/starbucks.html), [Sushi Boss](https://dining.purdue.edu/CampusDining/Restaurants/sushi-boss.html), among others that are added or removed daily.
 
 #
 
