@@ -20,8 +20,6 @@ Blastoff with Starship
 
 Starship Deliveries works through a smartphone app that signals an autonomous robot to pick up and deliver food to the intended customer. To use this service, you must first download the app.
 
-#
-
 ## Downloading the Smartphone App
 
 1. Go to Google [Play Store](https://play.google.com/store?hl=en_US).
@@ -41,8 +39,6 @@ Starship Deliveries works through a smartphone app that signals an autonomous ro
 
 ![googleSTOREthree](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191007-232511_google-play-store-e1570513371255.jpg)
 *Step 4: Tap the green install button to download the Starship Deliveries app.*
-
-#
 
 ## Setting Up the Starship Deliveries App
 
