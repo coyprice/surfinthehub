@@ -28,8 +28,6 @@ The list of notes that I was able to create is as follows. The first person took
 
 I received great feedback from both of my volunteers and was able to make many corrections based on their answers to my survey. I’m glad I went about my user testing in this was. For the final draft I expect to have many more than two people test my website.
 
-#
-
 ## Personas
 
 ### Todd Jeffrey
@@ -43,8 +41,6 @@ Doesn’t have any kids, is dedicated to the kids he teaches and to his research
 
 Todd doesn’t have the most active lifestyle as he sits down most of the day. Isn’t worried about the quality of the food he eats, just eats to sustain himself. Orders delivery often because of how ceaselessly he works. Todd doesn’t like the social aspect of delivering and would prefer a better medium. Perhaps a robot he doesn’t have to communicate with. He orders Chinese food over any other type.
 
-#
-
 ### Tina Fawn
 
 ![tina](https://starshipdeliveriesguide.files.wordpress.com/2019/12/girl_student-e1575666458976.jpg)
@@ -55,8 +51,6 @@ Tina works at Wiley Dining Court in addition to being a Purdue student. She is w
 Tina loves Purdue but is still figuring out her path in life. She’s currently in Exploratory Studies, debating what to CODO into. She’s always loved animals and water, so maybe it’ll be Aquatic Sciences. Tina enjoys music, especially Nicki Minaj and Jay-Z. She has two brothers back home and calls them and her mom every weekend.
 
 Often gets a free meal after her Wiley Dining Court shifts. Prefers to not order food and save money. However, she has a limited meal plan and gets really hungry on the weekends. Since her accident, she has seldom ventured out of the house. To help her leg recover, she orders delivery. Looks for deals and ways to spend as little as possible to fill up her belly.
-
-#
 
 ### Billy Darwin
 
