@@ -20,11 +20,7 @@ Blastoff with Starship
 
 To be able to use the android app, refer to the installation and setup page.
 
-#
-
 There are many restaurant choices that Starship Deliveries offers. At Purdue University, the options are: [1Bowl](https://dining.purdue.edu/ResidentialDining/locations/1bowl-at-meredith.html), [3rd Street Market](https://dining.purdue.edu/campusdining/Markets/thirdstreetmarket.html), [Cosi](https://dining.purdue.edu/campusdining/Restaurants/cosi.html), [Harrison Grill](https://dining.purdue.edu/campusdining/Restaurants/harrisongrill.html), [La Salsa](https://dining.purdue.edu/campusdining/Restaurants/lasalsa.html), [Pete’s Za](https://dining.purdue.edu/ResidentialDining/locations/petes_za-Meredith.html), [Port Cafe](https://dining.purdue.edu/CampusDining/Cafes/port.html), [Starbucks](https://dining.purdue.edu/CampusDining/Cafes/starbucks.html), [Sushi Boss](https://dining.purdue.edu/CampusDining/Restaurants/sushi-boss.html), among others that are added or removed daily.
-
-#
 
 ## Ordering Food with Starship Deliveries
 
@@ -46,8 +42,6 @@ There are many restaurant choices that Starship Deliveries offers. At Purdue Uni
 
 ![starAPPtwo](https://starshipdeliveriesguide.files.wordpress.com/2019/10/screenshot_20191008-012443-e1570513542918.jpg)
 *Step 5: Choose the final pickup point for your food order.*
-
-#
 
 ## Receiving Your Food and Enjoying It
 
